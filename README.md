@@ -4,6 +4,7 @@ READ ME
 ******************
 
 Files--------------------------------
+
 MainClient.java----------- Client side application(Sends requests and receives responses from server)
 MainServer.java----------- Server Side/ Contains Client Handler (Sends response and receives requests from clients)(Stores and reads from disk)
 Message.java-------------- JSON format: Serializes and deserialize message
